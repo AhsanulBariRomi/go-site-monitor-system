@@ -62,6 +62,7 @@ RUN go build -o monitor main.go
 
 # 5. Command to run the executable when the container starts
 CMD ["./monitor"]
+```
 
 ### **Finally Execusion**
 # 1. Build the Docker Image
